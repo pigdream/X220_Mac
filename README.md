@@ -4,8 +4,6 @@
 
 **Author**: *Vincent* <u>Zhou</u>
 
-**Mail:** [saligia\_eden@163.com](mailto:saligia_eden@163.com)         ***所有文件下载链接：*** [百度网盘](https://pan.baidu.com/s/1cGU-E-H56rxe436ftAuT_w)  *密码: **c6al***
-
 ## **重要：**
 
 **<font color=red>不要运行驱动脚本全装驱动，会黑屏，使用dp线才行，不运行驱动脚本正常。</font>**
@@ -680,7 +678,7 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 
 
-**TrashMe**：卸载软件能自动关联相关文件，删除干净，直接拉入TrashMe
+
 
 **iStat Menu**：系统状态信息实时显示,记住安装cup插件HWSensors才能监控温度
 
@@ -689,8 +687,6 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 **QuickRes**：快捷切换分辨率显示，在720hidpi和1440全2k间点一下快速切换，相当方便
 
 **Thor**：自己定制程序打开的快捷键，方便
-
-**QuickRes**: 快速切换屏幕分辨率，设置hidpi和2440两种，点一下图标就切换
 
 **CheetSheet**：快捷键提示软件
 
